@@ -4,7 +4,7 @@
 
 2. Refatorar Tests - OK
 
-3. Utilizar DocumentacaoRest Swagger
+3. Utilizar DocumentacaoRest Swagger - OK
 
 4. Registrar Aplicacao no EurekaServer - OK 
 

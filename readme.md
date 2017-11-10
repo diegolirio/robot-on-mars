@@ -11,15 +11,16 @@
 
 ##### Tecnologias
 
-- Java 8
-- Spring Framework
-- Spring Boot
-- Spring Cloud
-- JUnit4
-- IDEs: Spring Tool Suite e IntelliJ
-- Tomcat Embedded
-- Linux
+- `Java 8`
+- `Spring Framework
+- `Spring Boot`
+- `Spring Cloud`
+- `JUnit4`
+- `IDEs: Spring Tool Suite e IntelliJ`
+- `Tomcat Embedded`
+- `Linux`
 
-Padrões de desenvolvimento: `Template Method` `Strategy` `Builder` `SRP` `OCP` `ISP`.
+Padrões:   
+`Template Method` `Strategy` `Builder` `SRP` `OCP` `ISP`.
 
 > Obs: Servidor utilizado somente para estudos e desenvolvimento, não suporta um processamento em massa.

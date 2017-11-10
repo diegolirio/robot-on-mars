@@ -3,7 +3,7 @@ spring:
     name: robot-on-mars
     
 server:
-  port: 80801
+  port: 8090
   
 eureka:
   instance:

@@ -1,15 +1,10 @@
-### Steps
+# Robot On Mars
 
-1. Refatorar documentando cada padrao utilizado - OK
+### Documentation
 
-2. Refatorar Tests - OK
+- Api http://31.220.55.236:5003/robot-on-mars/swagger-ui.html
+- curl -s --request POST http://31.220.55.236:5003/robot-on-mars/rest/mars/MMRMMRMM
 
-3. Utilizar DocumentacaoRest Swagger - OK
+> O `http://31.220.55.236:5003` é uma proxy (Zuul) que respectivamente aponta para duas (ou mais) instâncias da aplicação, `http://31.220.55.236:8090/rest/mars/MM` e `http://31.220.55.236:8091/rest/mars/MM`.
 
-4. Registrar Aplicacao no EurekaServer - OK 
-
-5. Aplicar Jacoco Cobertura de testes
-
-6. Publicar Jacoco no Ngnix
-
-7. Deploy na aplicacao com 2 instacias 
+- As instâncias podem ser vista em http://31.220.55.236:5002 `ROBOT-ON-MARS`

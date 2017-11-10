@@ -21,6 +21,6 @@
 - `Linux`
 
 Padrões:   
-`Template Method` `Strategy` `Builder` `SRP` `OCP` `ISP`.
+`Template Method` `Factory` `Strategy` `Builder` `SRP` `OCP` `ISP`.
 
 > Obs: Servidor utilizado somente para estudos e desenvolvimento, não suporta um processamento em massa.

@@ -23,4 +23,4 @@
 Padrões:   
 `Template Method` `Factory` `Strategy` `Builder` `Flyweight` `SRP` `OCP` `ISP`.
 
-> Obs: Servidor utilizado somente para estudos e desenvolvimento, não suporta um processamento em massa.
+> Obs: O servidor utilizado é somente para estudos e desenvolvimento, não suporta um processamento em massa.

@@ -20,4 +20,6 @@
 - Tomcat Embedded
 - Linux
 
-Padrões de desenvolvimento: `Template Method` `Strategy` `Builder` `SRP` `OCP` `ISP`
+Padrões de desenvolvimento: `Template Method` `Strategy` `Builder` `SRP` `OCP` `ISP`.
+
+> Obs: Servidor utilizado somente para estudos e desenvolvimento, não suporta um processamento em massa.
